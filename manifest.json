@@ -1,0 +1,37 @@
+{
+  "name": "Aboney",
+  "short_name": "Aboney",
+  "icons": [
+    {
+      "src": "maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose" : "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#0a2f49",
+  "background_color": "#0a2f49",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
