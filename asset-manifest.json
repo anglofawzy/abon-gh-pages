@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abon-gh-pages/static/css/main.79e266c6.css",
-    "main.js": "/abon-gh-pages/static/js/main.1d68fe9f.js",
+    "main.js": "/abon-gh-pages/static/js/main.f0230719.js",
     "static/js/787.3cc29547.chunk.js": "/abon-gh-pages/static/js/787.3cc29547.chunk.js",
     "static/media/fa-solid-900.ttf": "/abon-gh-pages/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/fa-brands-400.ttf": "/abon-gh-pages/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
@@ -20,11 +20,11 @@
     "static/media/slick.woff": "/abon-gh-pages/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/abon-gh-pages/index.html",
     "main.79e266c6.css.map": "/abon-gh-pages/static/css/main.79e266c6.css.map",
-    "main.1d68fe9f.js.map": "/abon-gh-pages/static/js/main.1d68fe9f.js.map",
+    "main.f0230719.js.map": "/abon-gh-pages/static/js/main.f0230719.js.map",
     "787.3cc29547.chunk.js.map": "/abon-gh-pages/static/js/787.3cc29547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79e266c6.css",
-    "static/js/main.1d68fe9f.js"
+    "static/js/main.f0230719.js"
   ]
 }
